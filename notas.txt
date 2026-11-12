@@ -1,0 +1,1 @@
+Cuando realizamos el git status -s una vez creada la carpeta fotos no mostro nada porque precisamente la carpeta estaba vacia y ya habiamos aprendido que no se guardan carpetas vacias
